@@ -1,0 +1,12 @@
+fastapi
+httpx
+pydantic
+pytest
+pytest-asyncio
+python-decouple
+python-dotenv
+psycopg2
+rich
+scipy
+sqlalchemy
+uvicorn
