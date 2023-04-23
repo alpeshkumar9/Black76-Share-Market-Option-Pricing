@@ -1,8 +1,8 @@
-# Black76 Share Market Option Pricing
+# Black76 Europe Option Pricing
 
 A REST API web application to calculate PV of European options with Black76 formula
 
-Tech Stack: Docker, FastAPI, Postgres
+Tech Stack: Python, FastAPI, Postgres, Docker
 
 ## Initial Steps
 
