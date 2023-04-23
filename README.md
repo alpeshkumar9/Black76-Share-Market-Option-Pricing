@@ -4,6 +4,11 @@ A REST API web application to calculate PV of European options with Black76 form
 
 Tech Stack: Docker, FastAPI, Postgres
 
+## Initial Steps
+
+- Clone the repositry
+- Rename env.txt file to .env
+
 ## Setup and start Postgres database docker container
 
 run following command on terminal to setup database
