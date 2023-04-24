@@ -19,7 +19,7 @@ docker-compose up -d db
 
 ## Setup and start Web Application docker container
 
-run following command on terminal to setup database
+run following command on terminal to setup web API
 
 ```commandline
 docker-compose up -d --build app
@@ -27,7 +27,7 @@ docker-compose up -d --build app
 
 ## Testing
 
-run following command on terminal to setup database
+run following command on terminal for testing
 
 ```commandline
 docker-compose up tests
